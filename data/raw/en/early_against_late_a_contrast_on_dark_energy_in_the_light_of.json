@@ -1,0 +1,18 @@
+{
+  "id": "http://arxiv.org/abs/2609.05410v1",
+  "title": "Early against Late: A contrast on dark energy in the light of DESI DR2",
+  "abstract": "Recent findings from Dark Energy Spectroscopic Instrument (DESI) Baryon Acoustic Oscillation (BAO) measurements, combined with Type Ia supernovae and Cosmic Microwave Background (CMB) data, suggest potential parameter-level deviations from $Λ\\text{CDM}$. However, parameter exclusions omit prior-volume penalties, whereas Bayesian evidence uncovers a stark dichotomy between early- and late-time dynamics. To quantify this effect, we perform a Bayesian model comparison that explicitly accounts for the cosmological epoch of dark energy dynamics, contrasting two schemes acting in opposite epochs of cosmic history: pre-recombination Early Dark Energy (EDE) and late-time Chevallier--Polarski--Linder (CPL), both measured against a baseline $Λ$CDM. We validate the learned harmonic-mean estimator against \\texttt{UltraNest} (at background level) before applying it to the CMB analysis. Background-only data already disfavor both extensions, yielding $\\ln B_{Λ\\text{CDM},\\text{EDE}} = 2.45 \\pm 0.25$ and $\\ln B_{Λ\\text{CDM},\\text{CPL}} = 3.45 \\pm 0.24$. Including CMB sharpens this result: EDE is decisively rejected ($\\ln B_{Λ\\text{CDM},\\text{EDE}} = 12.44 \\pm 0.05$) with its early-time fraction constrained to $10^3\\,Ω_e^{\\rm EDE} = 2.0^{+0.6}_{-1.0}$, whereas CPL remains moderately disfavored ($\\ln B_{Λ\\text{CDM},\\text{CPL}} = 2.33 \\pm 0.06$), even though 2D parameter posteriors for both models display a multi-$σ$ deviation from $Λ\\text{CDM}$. Thus, Bayesian evidence weakens reported preferences for dark energy dynamics, with the impact depending on the cosmic epoch involved, confirmed by our functional reconstructions of $w_{\\rm de}(z)$ and $Ω_{\\rm de}(z)$ from posterior samples.",
+  "authors": [
+    "Miguel A. Zapata",
+    "Karim Carrion",
+    "Gabriela Garcia-Arroyo"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "astro-ph.CO"
+  ],
+  "url": "http://arxiv.org/abs/2609.05410v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "large language models"
+}

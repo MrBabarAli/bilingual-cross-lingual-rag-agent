@@ -1,0 +1,8 @@
+{
+  "id": "zhwiki_神经网络",
+  "title": "神经网络",
+  "abstract": "神经网络（neural network）是在动物、人类或计算机系统中形成神经系统结构的神经元互联群或神经元模拟，可能指：\n\n神经回路（neural circuit），是由生物的神经元、细胞、触点等组成的神经网络。\n动物神经网（nerve net），是一种径向对称的生物神经系统。\n人工神经网络（artificial neural network），是一种应用类似于大脑神经突触联接的结构进行信息处理的数学模型。在工程与学术界也常直接简称为“神经网络”或“类神经网络”。\n卷积神经网络（convolutional neural network），一种深度神经网络，常用于视觉图像分析。",
+  "language": "zh",
+  "source": "zh.wikipedia.org",
+  "topic_query": "神经网络"
+}

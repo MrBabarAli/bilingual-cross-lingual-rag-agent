@@ -1,0 +1,20 @@
+{
+  "id": "http://arxiv.org/abs/2609.05407v1",
+  "title": "Nonlinear evolution in Galileon EFTs: Regularization and screening",
+  "abstract": "In a scalar effective field theory (EFT) with Galileon symmetry, we distinguish the strong-field expansion from the derivative expansion and study spherically symmetric classical nonlinear dynamics. More concretely, we consider two models related via perturbative field redefinitions: one with second-order equations that can also exhibit screening, and one that includes a higher-derivative term that introduces a propagating ghost. The latter term is of the type that can ``regularise'' the equations to render them well-posed as an initial value problem. For initial data that respect the derivative expansion, we find that the first model (ghost-free, unregularised) develops ill-posed regions during evolution only when the derivative expansion breaks down. This result persists in the strong-field regime. We further find that the regularized model reproduces the evolution of the unregularised one when the latter remains well-posed, while it exhibits tachyonic behaviour when the unregularised one becomes ill-posed. We also consider initial data that corresponds to stationary states that exhibit screening in the unregularised, ghost-free theory. In this case, we find that the regularised theory can remain well-posed for initial data that the unregularised one developed ill-posed regions. However, the ghost term naturally dominates over the Galileon term in the screening regime, contrary to common expectation.",
+  "authors": [
+    "Farid Thaalba",
+    "Aaron Held",
+    "Ramiro Cayuso",
+    "Thomas P. Sotiriou"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "gr-qc",
+    "hep-th"
+  ],
+  "url": "http://arxiv.org/abs/2609.05407v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "large language models"
+}

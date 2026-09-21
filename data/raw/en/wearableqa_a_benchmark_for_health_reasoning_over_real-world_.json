@@ -1,0 +1,23 @@
+{
+  "id": "http://arxiv.org/abs/2609.05405v1",
+  "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+  "abstract": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longitudinal wearable record. We introduce WearableQA, a benchmark comprising 4,084 10-option multiple-choice questions constructed from the wearable time series, blood biomarkers, and demographics of 200 real users, each with up to 500 days of daily measurements. WearableQA preserves authentic wearable distributions that include device noise and inter-individual variability. To evaluate distinct reasoning capabilities, we introduce 16 question types organized along two complementary axes: data versus health reasoning, which distinguishes computation over longitudinal measurements from physiological interpretation; and single- versus cross-signal reasoning, which separates reasoning about individual signals from the integration of multiple signals. To construct reliable questions at scale, we adopt a dual-grounding framework that combines literature-grounded physiological findings with statistically validated population-grounded physiological patterns. This enables the capture of meaningful relationships observed in real-world wearable data. Evaluation of 14 proprietary and open-source LLMs demonstrates that WearableQA effectively differentiates model capabilities, with performance ranging from 19.6% to 72.9% against a 10% chance baseline. Moreover, WearableQA remains far from solved: most models achieve accuracies below 60%. Overall, WearableQA provides a realistic and diagnostic benchmark for evaluating LLM reasoning over real-world wearable data.",
+  "authors": [
+    "Ji Soo Lee",
+    "Xilun Chen",
+    "Pierce Chuang",
+    "Ashish Shenoy",
+    "Jason Wei",
+    "Dohwan Ko",
+    "Hyunwoo J. Kim",
+    "Benoit Corda"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "cs.CL"
+  ],
+  "url": "http://arxiv.org/abs/2609.05405v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "large language models"
+}

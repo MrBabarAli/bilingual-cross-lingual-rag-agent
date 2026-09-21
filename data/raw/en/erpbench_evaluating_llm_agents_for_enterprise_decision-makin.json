@@ -1,0 +1,19 @@
+{
+  "id": "http://arxiv.org/abs/2609.04667v1",
+  "title": "ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies",
+  "abstract": "Large language model (LLM) agents are increasingly proposed for enterprise workflows, yet existing evaluations rarely test whether business-decision conclusions transfer across competitive market ecologies. We introduce ERPBench, an execution-instrumented benchmark for enterprise decision agents in a six-round Enterprise Resource Planning (ERP) simulation with coupled pricing, production, procurement, inventory, finance, and shared-market competition. ERPBench evaluates the same 100 fixed problems in two matched competitive market ecologies: Solo, where each evaluated LLM agent competes against fixed rule-based opponents, and Arena, where six evaluated LLM agents compete in a shared market. Across six model families, this yields 1,200 model-level trajectories spanning 7,200 decision rounds. Under the observed service configuration, the leading model differs between ecologies: DeepSeek leads in Solo (252.29M mean valuation; mean rank 1.67), whereas Gemini leads in Arena (263.95M; 1.76). The two ecologies identify the same task-level winner on only 21 of 100 problems, and Gemini's bottom-rank rate falls from 22 % to 0 % in Arena. ERPBench supports paired evaluation of whether enterprise-agent rankings transfer across competitive market ecologies, supplemented by aggregate execution-intervention analysis. Code and benchmark resources are available in our https://github.com/GAIR-NLP/erp-bench.",
+  "authors": [
+    "Xinran Zhang",
+    "Pengrui Lu",
+    "Lyumanshan Ye",
+    "Pengfei Liu"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "cs.AI"
+  ],
+  "url": "http://arxiv.org/abs/2609.04667v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "cross-lingual NLP"
+}

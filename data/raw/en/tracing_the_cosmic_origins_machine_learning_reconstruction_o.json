@@ -1,0 +1,21 @@
+{
+  "id": "http://arxiv.org/abs/2609.05412v1",
+  "title": "Tracing the Cosmic Origins: Machine Learning Reconstruction of the Primordial Density Field from EoR Observations",
+  "abstract": "Reconstructing the initial conditions of the Universe from late-time tracers would unlock cosmological information buried by non-linear structure formation and astrophysics. We reconstruct the initial density field at $z\\sim300$ from simulated 21-cm and CO(1-0) line-intensity maps at $z\\sim8$ generated with LIMFAST. Using a three-dimensional U-Net, we reconstruct the initial conditions and evaluate its impact on cosmological parameter constraints. The two tracers probe complementary environments: 21-cm emission traces neutral, low-density regions of the intergalactic medium, while CO traces overdense, star-forming regions. To emulate realistic observations, we model instrumental effects for SKA1-Low- and COMAP-ERA-like surveys, including finite angular resolution and thermal noise. We assess reconstruction performance through the cross-correlation coefficient between reconstructed and true initial density fields, $|C(k)|$. In the noiseless case, combining both tracers delivers the most accurate recovery across ionisation states, with $|C(k)| \\gtrsim$ 0.90 for $k \\lesssim$ 0.75 Mpc$^{-1}$. With observational effects, small-scale information is degraded, but combining tracers still achieves $|C(k)| \\gtrsim$ 0.70 for $k \\lesssim$ 0.3 Mpc$^{-1}$. To quantify information gain, we perform simulation-based inference of cosmological parameters from power-spectrum summaries before and after reconstruction. In both noiseless and noisy settings, reconstruction tightens parameter constraints: uncertainties on $σ_8$ and $n_{\\rm s}$ improve by $\\sim2\\times$, with smaller but consistent gains for other parameters. This is further confirmed using Kullback-Leibler divergence diagnostics for an ensemble of observations. These results indicate that joint analysis of future 21-cm and CO surveys, combined with such reconstruction, can partially recover otherwise inaccessible cosmological information.",
+  "authors": [
+    "Anchal Saxena",
+    "P. Daniel Meerburg",
+    "Guochao Sun",
+    "Tzu-Ching Chang",
+    "Lluís Mas-Ribas"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "astro-ph.CO",
+    "astro-ph.IM"
+  ],
+  "url": "http://arxiv.org/abs/2609.05412v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "large language models"
+}

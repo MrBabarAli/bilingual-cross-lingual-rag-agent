@@ -1,0 +1,17 @@
+{
+  "id": "http://arxiv.org/abs/2609.05386v1",
+  "title": "The coordinate ring of the k-fold iterated commutator locus for 2x2 matrices",
+  "abstract": "For $2 \\times 2$ matrices $A_1,\\dots,A_k$, write $[A_1,\\dots,A_k]$ for the left-normed iterated commutator $[\\dots[[A_1,A_2],A_3],\\dots,A_k]$, and $I_k$ for the ideal, in the $3k$-variable reduced-coordinate polynomial ring $R_k$, cutting out its vanishing locus. We prove, for every $k \\geq 2$ over any field of characteristic $\\neq 2$, and as four independently-established results rather than one bundled claim: $I_k$ has codimension 2; $I_k$ has exactly 3 minimal generators; $R_k / I_k$ is Cohen-Macaulay; and $I_k$ is radical. The last of these, together with an explicit component count resting on a non-containment argument, assembles into the Primary Decomposition Theorem: $I_k = P_2 \\cap \\cdots \\cap P_k$ is an irredundant primary decomposition into exactly $k-1$ primes, following an explicit recursive block-involvement pattern. The proof identifies $I_k$ as the ideal of $2 \\times 2$ minors of an explicit $2 \\times 3$ matrix (a determinantal ideal, not merely one that looks determinantal), and invokes classical determinantal-ideal theory (Bruns-Vetter) and an explicit rank-2 Jacobian witness on every component (Serre's criterion) for the algebraic and radicality halves respectively.",
+  "authors": [
+    "Jan Snellman"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "math.AC",
+    "math.AG"
+  ],
+  "url": "http://arxiv.org/abs/2609.05386v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "retrieval augmented generation"
+}

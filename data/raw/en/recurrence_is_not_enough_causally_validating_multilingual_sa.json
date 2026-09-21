@@ -1,0 +1,20 @@
+{
+  "id": "http://arxiv.org/abs/2609.04808v1",
+  "title": "Recurrence Is Not Enough: Causally Validating Multilingual SAE Translation Features in Gemma 2 and 3",
+  "abstract": "Sparse autoencoder (SAE) features are increasingly used to explain and steer language-model behavior, but it remains unclear whether a feature found in one language context plays the same causal role when processing prompts in another language. We study this question using translation-initiation features (Wu et al., 2026). We reproduce the SAE feature discovery method from Wu et al. in Gemma 2 and extend it to multilingual settings that vary prompt language, source language, and target language. We then test whether features that recur across settings affect translation behavior by amplifying or ablating their activations during inference. We also examine whether the method can be applied to Gemma 3.   In both models, we observe an identical finding: although we can find more than 20 features that activate frequently across all discovery settings, causal validation shows that nearly all have small or inconsistent effects. In contrast, one feature -- Gemma 2's (L10, 5717) and Gemma 3's (L20, 2456) -- consistently improves COMET scores when amplified and degrades them when ablated across 23 language settings. These results show that feature recurrence can overstate cross-lingual transfer, while identifying a language-agnostic translation-initiation direction in Gemma 2 and Gemma 3.",
+  "authors": [
+    "Giang Son Nguyen",
+    "Nhi Ngoc-Yen Nguyen",
+    "Wray Buntine",
+    "Dung D. Le"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "cs.CL",
+    "cs.AI"
+  ],
+  "url": "http://arxiv.org/abs/2609.04808v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "cross-lingual NLP"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "http://arxiv.org/abs/2609.04819v1",
+  "title": "A Systematic Comparison of Multilingual Interpretability Methods Reveals Anisotropy-Driven Failures",
+  "abstract": "Multilingual language models develop shared cross-lingual representations, and various interpretability methods claim to quantify this sharing. These methods have been developed largely in isolation, and when they disagree, it is unclear whether the disagreement reflects a property of the model or an artifact of the measurement. We compare four sharing metrics (CKA, ANC, GMM dominance per token, and ILO) across 21 base models from five families (125M-14B parameters) and correlate each with cross-lingual transfer on five downstream tasks. We find that the metrics differ in their quantification of cross-lingual sharing in these models and suggest that the disagreement traces to anisotropy, the tendency of representations to cluster in a narrow cone of the embedding space. Only ILO's correlation with cross-lingual transfer (Spearman's $ρ= 0.90$) survives controls for model size, family, and per-task variation. We therefore recommend ILO as the primary sharing metric, to be reported alongside anisotropy diagnostics.",
+  "authors": [
+    "Oskar Holmström",
+    "Marcel Bollmann",
+    "Marco Kuhlmann"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "cs.CL"
+  ],
+  "url": "http://arxiv.org/abs/2609.04819v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "cross-lingual NLP"
+}

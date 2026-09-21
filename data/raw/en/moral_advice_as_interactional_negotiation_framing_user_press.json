@@ -1,0 +1,17 @@
+{
+  "id": "http://arxiv.org/abs/2609.05345v1",
+  "title": "Moral Advice as Interactional Negotiation: Framing, User Pressure, and Social Position in Large Language Model Responses",
+  "abstract": "As conversational AI becomes a source of everyday guidance, LLMs increasingly participate in the interpretation and legitimation of morally contested choices. We examine LLM moral advice as an interactional negotiation shaped by framing, sustained user pressure, and the moral subject's social position. Using GPT-4o-mini as an illustrative case, we conducted a factorial vignette experiment with a pre-specified three-round protocol. The model received eldercare dilemmas that varied in framing and persona, followed by two user challenges. We analyzed 1,620 configuration-framing cells, each repeated three times, yielding 4,860 conversational runs. Caregiving affirmation produced near-uniform endorsement, whereas non-caregiving framing produced more variable baseline stances. When users challenged caregiving endorsement, 90.1% of configurations shifted after one round. Non-caregiving framing produced more resistant and unstable trajectories. Never (27.9%) and Late (25.6%) accommodations were more common than Early accommodations (16.5%), and only 14.32% of configurations achieved perfect trajectory consistency, compared with 62.72% under caregiving framing. Advice also varied with social position. Female personas received more support for non-caregiving decisions, while the presence of sisters increased accommodation. The GPT-4o-mini case shows that LLM moral advice can develop through a partially stable negotiation between normative response tendencies and user pressure rather than express a fixed ethical framework. The framework and design support comparative research across models and moral domains. Such instability raises social, ethical, and technical concerns, as users may treat advice that is difficult to scrutinize as objective.",
+  "authors": [
+    "Minne Chen",
+    "Yourong Yao"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "cs.CY"
+  ],
+  "url": "http://arxiv.org/abs/2609.05345v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "LLM agents"
+}

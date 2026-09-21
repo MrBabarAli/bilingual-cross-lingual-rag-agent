@@ -1,0 +1,29 @@
+{
+  "id": "http://arxiv.org/abs/2609.05387v1",
+  "title": "A photonic source with half-a-GHz single-photon flux",
+  "abstract": "Advanced optical quantum technologies demands high quality quantum light generation at very high rates. Here, we report on a deterministic single-photon source that simultaneously combines high excitation rates with high system efficiency to reach over 500 MHz of in-fibre single-photon flux. The source delivers optical power of over 100 pW, as is measured with an off-the-shelf powermeter, enabling a simple and direct way of determining the single-photon source fiber efficiency.",
+  "authors": [
+    "P. Zahalka",
+    "S. Huijser",
+    "A. Pancaldi",
+    "S. Kruger",
+    "X. Zhao",
+    "Z. Liu",
+    "I. Suleiman",
+    "R. Jensen",
+    "L. Stefan",
+    "A. Ludwig",
+    "V. Remesh",
+    "J. C. Loredo",
+    "P. Lodahl"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "quant-ph",
+    "cond-mat.mes-hall"
+  ],
+  "url": "http://arxiv.org/abs/2609.05387v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "retrieval augmented generation"
+}

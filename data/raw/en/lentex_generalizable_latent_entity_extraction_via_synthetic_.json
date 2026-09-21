@@ -1,0 +1,22 @@
+{
+  "id": "http://arxiv.org/abs/2609.04511v1",
+  "title": "LentEx: Generalizable Latent Entity Extraction via Synthetic Data and Instruction-Tuned LLMs",
+  "abstract": "Latent entity extraction (LEE) tackles the challenge of identifying implicit, contextually inferred entities within free text-an area where traditional entity extraction methods fall short. In this paper, we introduce LentEx, a novel framework for latent entity extraction that leverages synthetic data generation and instruction fine-tuning to optimize smaller, efficient large language models (LLMs). Latent entities, which are often abstract and thematic, are crucial for applications such as retrieval-augmented generation (RAG), customer persona analysis, and knowledge graph enrichment. LentEx addresses the scarcity of labeled datasets by employing a template-based approach to generate diverse, contextually rich synthetic data, ensuring high variability and alignment with real-world distributions. To our knowledge, LentEx is the first to systematically approach LEE through the lens of LLMs. LentEx demonstrates significant performance improvements across multiple tasks, notably surpassing state-of-the-art models on the MTEB Clustering Benchmark. Furthermore, our methodology enables robust generalization to unseen domains, making LentEx highly applicable in real-world NLP tasks, including RAG and clustering, thereby establishing a new paradigm for latent entity understanding and extraction in natural language processing.",
+  "authors": [
+    "Umesh Bodhwani",
+    "Yuan Ling",
+    "Cibi Chakravarthy Senthilkumar",
+    "Shujing Dong",
+    "Yarong Feng",
+    "Hongfei Li",
+    "Ayush Goyal"
+  ],
+  "published": "2026-09-03",
+  "categories": [
+    "cs.CL"
+  ],
+  "url": "http://arxiv.org/abs/2609.04511v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "cross-lingual NLP"
+}

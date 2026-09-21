@@ -1,0 +1,19 @@
+{
+  "id": "http://arxiv.org/abs/2609.04823v1",
+  "title": "Reinforcement Learning for improving Large Language Models' Catalan text simplification capabilities",
+  "abstract": "Although automatic text simplification (ATS) is critical for accessibility, its progress has not matched the rapid evolution of broader natural language processing techniques. This paper investigates the application of reinforcement learning (RL) to improve the quality of ATS for low-resource languages using Large Language Models (LLMs). The paper introduces a novel reward function, designed to guide LLMs toward a targeted simplification style with Group Relative Policy Optimization (GRPO), that combines the SARI metric with specific penalty components. The effectiveness of GRPO with this reward function is motivated and demonstrated by post-training IberianLLM-7B-Instruct on the ASSET dataset. After post-training on the English ASSET, the model's ATS performance improves on two curated Catalan benchmarks while also successfully suppressing previously observed negative behaviors. Cross-lingual transfer learning is explored by translating ASSET into Catalan and Spanish and post-training the model on each version, but these fail to show a significant improvement on the out-of-domain benchmark.",
+  "authors": [
+    "Arnau Ayguadé Domingo",
+    "Stefan Bott",
+    "Horacio Saggion"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "cs.CL",
+    "cs.AI"
+  ],
+  "url": "http://arxiv.org/abs/2609.04823v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "cross-lingual NLP"
+}

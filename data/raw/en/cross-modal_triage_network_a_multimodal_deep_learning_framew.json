@@ -1,0 +1,20 @@
+{
+  "id": "http://arxiv.org/abs/2609.04357v1",
+  "title": "Cross-modal triage network: a multimodal deep learning framework for severity-based triage and visual explainability in chest radiographs",
+  "abstract": "Purpose: Increased number of chest radiograph (CXR) scans create a triage bottleneck, queueing urgent examinations behind routine ones. Existing AI tools are predominantly unimodal binary classifiers lacking severity awareness, and multimodal systems are rarely benchmarked against expert radiologists. To this end, we developed a multimodal deep learning framework for joint severity triage, pathology detection, and native visual explanation. Approach: We propose the cross-modal triage network (CMTN), fusing a Swin Transformer V2 visual encoder with a PubMedBERT text encoder via gated cross-attention. The CMTN was trained on 34,639 image-text pairs (12,489 patients) from MIMIC-CXR-JPG, optimizing an ordinal focal loss for four-tier severity triage and binary cross-entropy for 14 pathologies. Beyond quantitative benchmarking, attention heatmaps were evaluated against a blinded expert radiologist in a two-phase clinical audit comparing model triage output to expert severity assessment (100 cases) and grading spatial-semantic concordance (116 heatmaps). Results: The CMTN achieved strong ordinal agreement with reference labels (quadratic weighted kappa [QWK] = 0.9341, 95\\% CI: 0.9219 to 0.9449) and macro-AUROC of 0.9970 across 14 pathologies, with 34~ms latency, outperforming the state-of-the-art BioViL multimodal baseline (QWK = 0.7679). However, the blinded Phase I clinical audit revealed substantially lower agreement with genuine radiologist judgment (QWK = 0.1399). Phase II found 54.3\\% of heatmaps achieved clinically acceptable spatial localization. Conclusions: The CMTN demonstrated an efficient multimodal architecture for CXR triage. The divergence between algorithmic and radiologist agreement demonstrates that benchmark performance against NLP-derived labels is insufficient, highlighting the need for radiologist-labeled ground truth before clinical deployment.",
+  "authors": [
+    "Zinah Ghulam",
+    "Richa Mittal",
+    "Eranga Ukwatta"
+  ],
+  "published": "2026-09-03",
+  "categories": [
+    "eess.IV",
+    "cs.AI",
+    "cs.CV"
+  ],
+  "url": "http://arxiv.org/abs/2609.04357v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "cross-lingual NLP"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "http://arxiv.org/abs/2609.05390v1",
+  "title": "Energy-Efficient Waveform Design for ISAC Systems: An Ambiguity-Domain QoS Perspective",
+  "abstract": "Integrated sensing and communication (ISAC) requires transmit waveforms that simultaneously preserve communication quality, provide reliable sensing, and remain compatible with practical radio-frequency front ends. This paper considers a discrete-time ISAC waveform design problem that minimizes transmit power from the perspective of a novel metric termed the ambiguity-domain sensing signal-to-interference-plus-noise ratio (AF-SINR). The proposed AF-SINR quantifies the ratio between the desired ambiguity-function mainlobe power and the weighted aggregate sidelobe leakage plus noise within a local delay-Doppler region of interest, thereby providing a localized and noise-aware sensing-QoS measure. To enable ISAC operation, the waveform is further required to satisfy per-user effective communication-SINR constraints, while a peak-to-average power ratio (PAPR) constraint is imposed to facilitate practical implementation. The resulting energy-minimization problem is nonconvex due to the fractional QoS expressions, quartic ambiguity terms, and waveform-dependent PAPR constraint. To address this challenge, we propose a fractional-programming successive-convex-approximation (FP-SCA) algorithm. Simulation results verify that the proposed method satisfies all requirements while preserving localized ambiguity suppression over the local delay-Doppler region.",
+  "authors": [
+    "Ngoc-Son Duong",
+    "Trung-Hieu Nguyen",
+    "Quang-Truong Can"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "eess.SP"
+  ],
+  "url": "http://arxiv.org/abs/2609.05390v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "prompt engineering"
+}

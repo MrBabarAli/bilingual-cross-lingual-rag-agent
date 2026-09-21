@@ -1,0 +1,18 @@
+{
+  "id": "http://arxiv.org/abs/2609.05378v1",
+  "title": "Full-field laser-Doppler-vibrometry FRF dataset for a four-bolt aluminum plate under bolt-torque variation",
+  "abstract": "The dataset described in this article was constructed using the results of laser Doppler vibrometry experiments conducted on an aluminum plate having four bolts. The database captures the variation in the vibration characteristics of the plate as a function of changes in tightening torque on the bolts. In total, there were 18 different states for the tightening torque, ranging from a situation where all bolts are tightened to all bolts being loose. Other possible combinations include states with varying torque applied to just one bolt, and those involving multiple loose bolts. Data consist of 1,836 files exported from Polytec PSV-500, categorized as amplitude and phase data, for frequency ranges spanning 1 Hz to 51,200 Hz at intervals of 1 Hz. The identified zones were analyzed at 51 scan points for all states of torque. Supporting documents included specifications of the test plate, scan point and torque state information, selected resonance peaks tables, measured frequencies for seven resonance groups, correlation values for all FRF, visualizations, and code scripts.",
+  "authors": [
+    "Berkay Kullukcu",
+    "Dina Hannebauer"
+  ],
+  "published": "2026-09-04",
+  "categories": [
+    "eess.SP",
+    "eess.SY"
+  ],
+  "url": "http://arxiv.org/abs/2609.05378v1",
+  "language": "en",
+  "source": "arxiv",
+  "topic_query": "prompt engineering"
+}

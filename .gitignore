@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model cache (BGE-M3 downloads ~2GB here)
+.cache/
+*.bin
+*.safetensors
+
+# Environment variables / API keys
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large generated data (optional - see note below)
+# Uncomment these if you don't want raw/processed data in git:
+# data/raw/
+# data/processed/
